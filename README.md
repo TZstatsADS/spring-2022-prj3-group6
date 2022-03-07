@@ -1,5 +1,7 @@
 # Project: Weakly supervised learning-- label noise and correction
 
+## Reproducibility 
+The dataset is not available in this repo. Please download the dataset separately and then place it in the `data` folder, in it's own subfolder titled `images`. The labels are left for ease of use, but can be changed if the dataset or labels change. 
 
 ### [Full Project Description](doc/project3_desc.md)
 
