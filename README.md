@@ -13,7 +13,7 @@ Term: Spring 2022
 + Team members
 	+ Noah Love
 	+ Xiangyu Ma
-	+ Peixuan Song
+	+ Peixuan Song - Built main model and visualization
 	+ Vasiliki Vlachou
 	+ Hahyung Jung - Reported COVID-19 Issue
 
