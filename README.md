@@ -13,6 +13,7 @@ Term: Spring 2022
 	+ Xiangyu Ma
 	+ Peixuan Song
 	+ Vasiliki Vlachou
+	+ Hahyung Jung - Reported COVID-19 Issue
 
 + Project summary: In this project, we created ...
 	
