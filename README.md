@@ -3,7 +3,10 @@
 ## Reproducibility 
 The dataset is not available in this repo. Please download the dataset separately and then place it in the `data` folder, in it's own subfolder titled `images`. The labels are left for ease of use, but can be changed if the dataset or labels change. 
 
+
+
 ### [Full Project Description](doc/project3_desc.md)
+
 
 Term: Spring 2022
 
@@ -15,7 +18,14 @@ Term: Spring 2022
 	+ Vasiliki Vlachou
 	+ Hahyung Jung - Reported COVID-19 Issue
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we created a successful image classifier than is capable of identifying and classifying images of 10 types: plane, car, bird, cat, deer, dog, frog, horse, ship and truck. 
+
+### Feature Detector 
+Our model involves stacking convolutional layers. Many of which are small 3x3 filters, with a LeakyReLU and then a max pooling layer. There are three of these, with increasing depth of the network from 32 to 128 for the first four blocks of the model. 
+
+### Classifier Part
+The classifier interprets the feature dectection and makes a prediction as to which class, in this case 1 of 10, the photo belongs. In our model, the feature extraction is flattened, using a variety of activations, down to 10 nodes for 10 classes. 
+	
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) Hahyung Jung was unable to contribute to the project due to Covid. He has emailed the professor about this. Other team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
