@@ -26,7 +26,7 @@ Our model involves stacking convolutional layers. Many of which are small 3x3 fi
 The classifier interprets the feature dectection and makes a prediction as to which class, in this case 1 of 10, the photo belongs. In our model, the feature extraction is flattened, using a variety of activations, down to 10 nodes for 10 classes. 
 
 ### Capabilities
-This model improves significantly on the baseline model, and model II improves greatly over model I. We strongly recommend implementing model I in all use cases. It is capable of predicting images at a rate of 65% accuracy, even with noisy labels.
+This model improves significantly on the baseline model, and model II improves greatly over model I. We strongly recommend implementing model I in all use cases. It is capable of predicting images at a rate of *70%* accuracy, even with noisy labels.
 	
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) Hahyung Jung was unable to contribute to the project due to Covid. He has emailed the professor about this. Other team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
