@@ -17,7 +17,7 @@ Term: Spring 2022
 	+ Vasiliki Vlachou
 	+ Hahyung Jung - Reported COVID-19 Issue
 
-+ Project summary: In this project, we created a successful image classifier than is capable of identifying and classifying images of 10 types: plane, car, bird, cat, deer, dog, frog, horse, ship and truck. 
++ Project summary: In this project, we created a successful image classifier that is capable of identifying and classifying images of 10 types: plane, car, bird, cat, deer, dog, frog, horse, ship and truck. 
 
 ### Feature Detector 
 Our model involves stacking convolutional layers. Many of which are small 3x3 filters, with a LeakyReLU and then a max pooling layer. There are three of these, with increasing depth of the network from 32 to 128 for the first four blocks of the model. 
