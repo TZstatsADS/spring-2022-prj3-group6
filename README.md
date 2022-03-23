@@ -9,7 +9,7 @@ The dataset is not available in this repo. Please download the dataset separatel
 
 Term: Spring 2022
 
-+ Team ##
++ Team 06
 + Team members
 	+ Noah Love
 	+ Xiangyu Ma
